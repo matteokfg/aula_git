@@ -1,4 +1,4 @@
-let result = document.getElementById("result");
+let result = document.getElementById("rato");
 
 
 function getResult() {
@@ -13,6 +13,6 @@ function calculate(value) {
 
 
 function clearResult() {
-  result.value = "";
+  result.value = "arroz";
 
 }
